@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Hello World Repository - Tutorial
+Hi there!
+
+This is my first github project (is it project?)
